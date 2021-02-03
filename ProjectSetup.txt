@@ -1,0 +1,19 @@
+Web-api setup
+--------------
+Extract zip file Titles.Api
+Open Visual stuio 2019
+open the solution and run it(Press F5)
+browser will open.(it will show some error ignore it. don't close the browser)
+
+
+Rect JS App
+----------
+Install latest nodejs
+open command prompt
+extract zip file movieSearchApp
+Navigate to ..\movieSearchApp\my-app the folder
+run the command npm i
+after installing all packages
+run the command npm start
+
+it will open the browser  otherwise browse http://localhost:3000
